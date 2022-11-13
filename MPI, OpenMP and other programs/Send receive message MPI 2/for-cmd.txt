@@ -1,0 +1,4 @@
+Работает с любым количеством процессов
+mpiexec -n кол-во процессов ConsoleApplication1
+например:
+mpiexec -n 5 ConsoleApplication1

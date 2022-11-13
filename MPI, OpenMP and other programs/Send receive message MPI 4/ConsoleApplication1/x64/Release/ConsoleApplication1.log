@@ -1,0 +1,12 @@
+﻿  ConsoleApplication1.cpp
+D:\Мое IT резюме\Github\Для загрузки\cpp-projects\Other Labs\Lab30\ConsoleApplication1\ConsoleApplication1.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Мое IT резюме\Github\Для загрузки\cpp-projects\Other Labs\Lab30\ConsoleApplication1\ConsoleApplication1.cpp(47,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Мое IT резюме\Github\Для загрузки\cpp-projects\Other Labs\Lab30\ConsoleApplication1\ConsoleApplication1.cpp(58,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Мое IT резюме\Github\Для загрузки\cpp-projects\Other Labs\Lab30\ConsoleApplication1\ConsoleApplication1.cpp(69,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Мое IT резюме\Github\Для загрузки\cpp-projects\Other Labs\Lab30\ConsoleApplication1\ConsoleApplication1.cpp(80,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Мое IT резюме\Github\Для загрузки\cpp-projects\Other Labs\Lab30\ConsoleApplication1\ConsoleApplication1.cpp(91,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 94 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> D:\Мое IT резюме\Github\Для загрузки\cpp-projects\Other Labs\Lab30\x64\Release\ConsoleApplication1.exe

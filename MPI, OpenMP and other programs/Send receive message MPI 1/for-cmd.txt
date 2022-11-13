@@ -1,0 +1,2 @@
+Работает только с 3 процессами
+mpiexec -n 3 ConsoleApplication1

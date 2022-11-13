@@ -1,0 +1,2 @@
+Работает только с восемью процессами.
+mpiexec -n 8 ConsoleApplication1

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "6d7b378a-c59c-4b77-8d95-09c3efc3c0ee": {
+      "ProjectGuid": "6d7b378a-c59c-4b77-8d95-09c3efc3c0ee",
+      "DisplayName": "Slave",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

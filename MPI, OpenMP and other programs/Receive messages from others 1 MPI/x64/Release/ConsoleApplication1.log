@@ -1,0 +1,10 @@
+﻿  ConsoleApplication1.cpp
+  Создание кода
+  13 of 14 functions (92.9%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\9\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(22): error C4700: использована неинициализированная локальная переменная "message"
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\9\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40): error C4700: использована неинициализированная локальная переменная "b"
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\9\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40): error C4700: использована неинициализированная локальная переменная "c"
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\9\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40): error C4700: использована неинициализированная локальная переменная "d"
+LINK : fatal error LNK1257: не удалось создать код

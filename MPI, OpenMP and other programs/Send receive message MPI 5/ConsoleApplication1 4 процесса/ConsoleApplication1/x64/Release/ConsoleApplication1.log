@@ -1,0 +1,7 @@
+﻿  ConsoleApplication1.cpp
+D:\Мое IT резюме\Github\Для загрузки\cpp-projects\MPI, OpenMP and other labs\Lab25\ConsoleApplication1 4 процесса\ConsoleApplication1\ConsoleApplication1.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 84 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> D:\Мое IT резюме\Github\Для загрузки\cpp-projects\MPI, OpenMP and other labs\Lab25\ConsoleApplication1 4 процесса\x64\Release\ConsoleApplication1.exe

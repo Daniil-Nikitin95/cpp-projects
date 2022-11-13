@@ -1,0 +1,3 @@
+﻿  ConsoleApplication1.cpp
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\12\ConsoleApplication1 20 процессов\ConsoleApplication1\ConsoleApplication1.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\12\ConsoleApplication1 20 процессов\x64\Debug\ConsoleApplication1.exe

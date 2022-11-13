@@ -1,0 +1,8 @@
+﻿  ConsoleApplication1.cpp
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(47,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(58,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(69,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(80,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\11\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(91,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\11\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe

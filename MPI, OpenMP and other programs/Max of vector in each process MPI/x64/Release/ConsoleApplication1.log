@@ -1,0 +1,14 @@
+﻿  ConsoleApplication1.cpp
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\13\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(14,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\13\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(66,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\13\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(74,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\13\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(82,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\13\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(90,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\13\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(98,26): warning C4244: =: преобразование "__int64" в "int", возможна потеря данных
+D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\13\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(19,16): warning C4101: status: неиспользованная локальная переменная
+  Создание кода
+  1 of 93 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> D:\Дисциплины Семестр 8\Полищук Параллельное программирование\Задания\Готовые задания\MPI\13\ConsoleApplication1\x64\Release\ConsoleApplication1.exe
