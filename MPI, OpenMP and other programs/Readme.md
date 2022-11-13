@@ -8,16 +8,14 @@ OpenMP - https://ru.wikipedia.org/wiki/OpenMP
 1) Dot product of arrays
 2) Max min in array parity check
 
-
 Программы с OpenMP:
-3) Array sum OpenMP
+1) Array sum OpenMP
 4) Dot product of vectors OpenMP
 5) Matrix product OpenMP
 6) Max in array OpenMP
 7) Max of vector OpenMP
 8) Number Pi OpenMP
 9) Threads IDs number of threads OpenMP
-
 
 Программы с MPI:
 10) Combination function MPI
