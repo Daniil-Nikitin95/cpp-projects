@@ -18,19 +18,21 @@ OpenMP - https://ru.wikipedia.org/wiki/OpenMP
 9) Threads IDs number of threads OpenMP
 
 Программы с MPI:
-10) Combination function MPI
-11) Get processor name rank MPI
-12) Get rank MPI
-13) Get rank new rank address MPI
-14) Master slave MPI
-15) Matrix product MPI
-16) Max of vector in each process MPI
-17) Receive messages from others 1 MPI
-18) Receive messages from others 2 MPI
-19) Send receive message MPI 1
-20) Send receive message MPI 2
-21) Send receive message MPI 3
-22) Send receive message MPI 4
-23) Send receive message MPI 5
+1) Combination function MPI
+2) Get processor name rank MPI
+3) Get rank MPI
+4) Get rank new rank address MPI
+5) Master slave MPI
+6) Matrix product MPI
+7) Max of vector in each process MPI
+8) Receive messages from others 1 MPI
+9) Receive messages from others 2 MPI
+10) Send receive message MPI 1
+11) ) Send receive message MPI 2
+12) Send receive message MPI 3
+13) Send receive message MPI 4
+14) Send receive message MPI 5
 
-Работы с 1 по 9 запустите в DevCpp, дальше Выполнить->Скомпилировать и выполнить. С 10 по 23 запустите в Visual Studio 2022, дальше выберите конфигурацию решения Release и выполните отладку.
+Работы с OpenMP и без OpenMP запустите в DevCpp, дальше Выполнить->Скомпилировать и выполнить. 
+
+Работы с MPI запустите в Visual Studio 2022, дальше выберите конфигурацию решения Release и выполните отладку.
